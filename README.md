@@ -1,1 +1,1 @@
-# npt_simulations
+# md_simulations
